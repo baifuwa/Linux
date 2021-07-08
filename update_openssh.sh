@@ -63,4 +63,4 @@ StrictModes yes
 UsePAM yes
 EOF
 # 重启openssh 
-systemctl restart opensshd
+systemctl restart sshd
